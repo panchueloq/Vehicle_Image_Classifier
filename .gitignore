@@ -1,0 +1,7 @@
+data/
+test_data/
+other_data/
+images_to_test_manually/
+.ipynb_checkpoints/
+models/
+vehicle_class/
